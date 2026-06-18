@@ -21,7 +21,6 @@ az login
 .
 ├── provider.tf
 ├── main.tf
-├── outputs.tf
 ├── .gitignore
 └── README.md
 ```
